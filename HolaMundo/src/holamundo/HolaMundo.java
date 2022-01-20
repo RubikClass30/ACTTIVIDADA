@@ -16,7 +16,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("soy  Rubik, gd player");
         System.out.println("segunda modificacion");
-        System.out.println("q hay");
+        System.out.println("Soy ELPEPE");
     }
     
 }
